@@ -11,6 +11,7 @@
 
 ### Навыки 
 - HTML, CSS
+- JavaScript, ReactJS.
 - Знаком с шаблонизаторами SCSS/SASS, Plug
 - Работа с Git, GitHub
 - Знаком с паттернами проектирования
